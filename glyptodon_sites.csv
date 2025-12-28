@@ -1,0 +1,9 @@
+SiteID,Latitude,Longitude,Species,Age_MYA,HumanEvidence
+G001,-34.6037,-58.3816,Glyptodon clavipes,0.011,true
+G002,-12.0464,-77.0428,Glyptodon reticulatus,0.015,false
+G003,-15.7975,-47.8919,Glyptodon clavipes,0.008,true
+G004,19.4326,-99.1332,Glyptodon reticulatus,0.012,false
+G005,-31.7613,-52.3338,Glyptodon clavipes,0.010,true
+G006,40.7128,-74.0060,Glyptodon clavipes,0.013,false
+G007,-33.4489,-70.6693,Glyptodon reticulatus,0.009,true
+G008,-0.1807,-78.4678,Glyptodon clavipes,0.014,false
